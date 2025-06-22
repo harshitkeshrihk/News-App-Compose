@@ -75,9 +75,9 @@ fun DetailsTopBarPreview(){
     NewsAppComposeTheme {
         Box(modifier = Modifier.background(MaterialTheme.colorScheme.background)) {
             DetailsTopBar(
-                onBrowsingClick = { /*TODO*/ },
-                onShareClick = { /*TODO*/ },
-                onBookmarkClick = { /*TODO*/ }) {
+                onBrowsingClick = {  },
+                onShareClick = {  },
+                onBookmarkClick = { }) {
 
             }
         }
